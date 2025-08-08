@@ -1,0 +1,5 @@
+{
+  "name": "Mood Swing Simulator",
+  "description": "An interactive emotional interface to explore the dynamic nature of mood changes through visual feedback, color changes, and AI-generated quotes.",
+  "requestFramePermissions": []
+}
